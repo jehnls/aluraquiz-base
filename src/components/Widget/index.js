@@ -27,7 +27,7 @@ Widget.Header = styled.header`
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  padding: 18px 32px;
+  padding: 18px 33px;
   background-color: ${({ theme }) => theme.colors.primary};
   
   * {
@@ -49,11 +49,10 @@ Widget.Content = styled.div`
   }
   
   input {
-    
-    left: 1px;
-    right: 1px;
-    top: 1px;
-    bottom: 1px;
+    width:100%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    padding: 7px 39px;
 
     background: #F8C86F;
     color: #551E01;
@@ -62,11 +61,9 @@ Widget.Content = styled.div`
 
 
   button {
-    position:relative;
-    left: 0px;
-    right: 0px;
-    top: 0px;
-    bottom: 0px;
+    width:100%;
+    padding: 7px 59px;
+    margin-bottom:1%;
 
     background: #0D0D0D;
     color: #A62F03;
@@ -75,8 +72,6 @@ Widget.Content = styled.div`
     box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.12), 0px 2px 2px rgba(0, 0, 0, 0.24);
     border-radius: 4px;
   }
-
-
 `;
 
 export default Widget;

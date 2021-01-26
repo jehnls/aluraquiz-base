@@ -5,6 +5,7 @@ import GitHubCorner from '../src/components/GitHubCorner'
 import QuizBackground from '../src/components/QuizBackground'
 import QuizLogo from '../src/components/QuizLogo'
 import Widget from '../src/components/Widget'
+import Head from 'next/head'
 
 
 
@@ -23,6 +24,7 @@ export const QuizContainer = styled.div`
 
 export default function Home() {
   return (
+    
     <QuizBackground backgroundImage={db.bg}>
       <QuizContainer>
         <QuizLogo />
@@ -32,14 +34,18 @@ export default function Home() {
           </Widget.Header>
           <Widget.Content>
             <p>{db.description}</p>
-            <input/>
+            <input placeholder="Diz aí seu nome pra jogar :)"/>
             <button>Jogar</button>
           </Widget.Content>
         </Widget>
 
         <Widget>
           <Widget.Content>
-            Quiz da galera
+            <h1>{db.secondQuiz.name}</h1>
+            <p>{db.secondQuiz.description}</p>
+            <button>{db.secondQuiz.quizClassmate.firstPerson}</button>
+            <button>{db.secondQuiz.quizClassmate.secondPerson}</button>
+            <button>{db.secondQuiz.quizClassmate.thirdPerson}</button>
           </Widget.Content>
         </Widget>
         <Footer />

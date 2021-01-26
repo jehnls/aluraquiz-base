@@ -2,6 +2,18 @@
   "bg": "https://folhalestebh.com.br/wp-content/uploads/2019/04/verdadeiro-sentido-da-páscoa-696x316.png",
   "title": "Jesus Cristo o principe da Paz",
   "description": "Teste os seus conhecimentos sobre o cordeiro de Deus",
+  "secondQuiz" : 
+    {
+      "name":"Quiz da galera",
+      "description":"Dá uma olhada nesses quizes incríveis que o pessoal da Imersão Alguma coisa fez:",
+      "quizClassmate": {
+          "firstPerson":"Cleber/aluraquiz1",
+          "secondPerson":"Cleber/aluraquiz2",
+          "thirdPerson":"Cleber/aluraquiz3"
+        }
+      
+    }
+  ,
   "questions": [
     {
       "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
