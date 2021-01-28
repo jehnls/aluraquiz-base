@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 
-// src/components/QuizContainer/index.js
 
 export const QuizContainer = styled.div`
   width: 100%;
@@ -13,9 +12,4 @@ export const QuizContainer = styled.div`
   }
 `;
 
-// export default QuizContainer() {
-//     return (
-//         <h1>Quizes da galera</h1>
-//         <p>lorem ipsum dolor sit amet..</p>
-//     );
-// }
+export default QuizContainer;
