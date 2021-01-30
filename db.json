@@ -16,25 +16,63 @@
   ,
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://scontent.fcgh52-1.fna.fbcdn.net/v/t1.0-9/14611126_920347874764389_7818382528506023225_n.jpg?_nc_cat=103&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGiXya7yjaSmPVGb216qKx4sAi_QyX0ZT6wCL9DJfRlPqTr1d6pzl_4z-EIc51ZnEZsrbLcUJRpZS13W4zZfqKN&_nc_ohc=nJAO2wD7VJIAX91lh8g&_nc_ht=scontent.fcgh52-1.fna&oh=c5cbe442e81f224c6a7d582a62093be8&oe=60399AE7",
+      "title": "O que Deus fez para demonstrar o seu amor pelos homens que pecaram?",
       "description": "Essa é pra aquecer",
-      "answer": 2,
+      "answer": 0,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Entregou Jesus para pagar pelos pecados deles",
+        "Abriu o mar para eles passarem.",
+        "Não fez nada",
+        "Não matou eles"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
+      "image": "https://scontent.fcgh52-1.fna.fbcdn.net/v/t1.0-9/14611126_920347874764389_7818382528506023225_n.jpg?_nc_cat=103&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGiXya7yjaSmPVGb216qKx4sAi_QyX0ZT6wCL9DJfRlPqTr1d6pzl_4z-EIc51ZnEZsrbLcUJRpZS13W4zZfqKN&_nc_ohc=nJAO2wD7VJIAX91lh8g&_nc_ht=scontent.fcgh52-1.fna&oh=c5cbe442e81f224c6a7d582a62093be8&oe=60399AE7",
+      "title": "Qual a consequência de rejeitarmos a Salvação que Deus nos dá gratuitamente por meio de Jesus?",
+      "description": "Faz tempo em haha",
+      "answer": 2,
+      "alternatives": [
+         "Nenhuma, afinal de contas eu mando na minha vida",
+         "Ficarei pobre até morrer",
+         "A condenação eterna ao inferno",
+         "Não ser feliz."
+      ]
+    },
+    {
+      "image": "https://scontent.fcgh52-1.fna.fbcdn.net/v/t1.0-9/14611126_920347874764389_7818382528506023225_n.jpg?_nc_cat=103&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGiXya7yjaSmPVGb216qKx4sAi_QyX0ZT6wCL9DJfRlPqTr1d6pzl_4z-EIc51ZnEZsrbLcUJRpZS13W4zZfqKN&_nc_ohc=nJAO2wD7VJIAX91lh8g&_nc_ht=scontent.fcgh52-1.fna&oh=c5cbe442e81f224c6a7d582a62093be8&oe=60399AE7",
+      "title": "O pecado muitas vezes pode nos trazer uma aparente alegria por satisfazer os desejos do nosso coração, mas o fim dele é:",
       "description": "Faz tempo em haha",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Morte",
+         "Satisfação",
+         "Ira",
+         "N.D.A"
+      ]
+    },
+    {
+      "image": "https://scontent.fcgh52-1.fna.fbcdn.net/v/t1.0-9/14611126_920347874764389_7818382528506023225_n.jpg?_nc_cat=103&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGiXya7yjaSmPVGb216qKx4sAi_QyX0ZT6wCL9DJfRlPqTr1d6pzl_4z-EIc51ZnEZsrbLcUJRpZS13W4zZfqKN&_nc_ohc=nJAO2wD7VJIAX91lh8g&_nc_ht=scontent.fcgh52-1.fna&oh=c5cbe442e81f224c6a7d582a62093be8&oe=60399AE7",
+      "title": "Qual o único meio que o homem possui para poder ser salvo de seus pecados?",
+      "description": "Faz tempo em haha",
+      "answer": 2,
+      "alternatives": [
+         "Não fazer mau a ninguém",
+         "Fazer o bem a todos",
+         "Crer e ter fé em Jesus de todo o coração.",
+         "Pagar pelos seus pecados no purgatório"
+      ]
+    },
+    {
+      "image": "https://scontent.fcgh52-1.fna.fbcdn.net/v/t1.0-9/14611126_920347874764389_7818382528506023225_n.jpg?_nc_cat=103&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeGiXya7yjaSmPVGb216qKx4sAi_QyX0ZT6wCL9DJfRlPqTr1d6pzl_4z-EIc51ZnEZsrbLcUJRpZS13W4zZfqKN&_nc_ohc=nJAO2wD7VJIAX91lh8g&_nc_ht=scontent.fcgh52-1.fna&oh=c5cbe442e81f224c6a7d582a62093be8&oe=60399AE7",
+      "title": "A morte de Jesus se aplica a quais categorias de homens?",
+      "description": "Faz tempo em haha",
+      "answer": 1,
+      "alternatives": [
+         "A todos indistintamente, pois todos iremos morar no céu",
+         "Somente para aqueles que crêem no seu sacrifício e obedecem a sua vontade",
+         "Somente para aqueles que não tem pecados",
+         "Só para os pobres."
       ]
     }
   ],
