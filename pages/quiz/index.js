@@ -1,13 +1,13 @@
 import React from 'react';
 
 import PropTypes from 'prop-types';
-import { QuizContainer } from '../src/components/QuizContainer';
-import QuizBackground from '../src/components/QuizBackground';
-import QuizLogo from '../src/components/QuizLogo';
-import Widget from '../src/components/Widget';
-import db from '../db.json';
-import Button from '../src/components/Button';
-import AlternativesForm from '../src/components/AlternativesForm';
+import { QuizContainer } from '../../src/components/QuizContainer';
+import QuizBackground from '../../src/components/QuizBackground';
+import QuizLogo from '../../src/components/QuizLogo';
+import Widget from '../../src/components/Widget';
+import db from '../../db.json';
+import Button from '../../src/components/Button';
+import AlternativesForm from '../../src/components/AlternativesForm';
 
 function LoadingWidget() {
   return (
