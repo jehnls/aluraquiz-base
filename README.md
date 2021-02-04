@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Happy
+  AluraQuiz
 </h4>
 <p align="center">
 
@@ -22,8 +22,12 @@
 <br>
 
 <p align="center">
+  ###In browser
  <img alt="Frontend" src=".github/web.png">
-  <img alt="Frontend" src=".github/mobile.gif" width="600px">
+  
+   ###In mobile
+  
+  <img alt="Frontend" src=".github/mobile.gif" width="300px">
 </p>
 
 ## :octocat: Roadmap
@@ -71,7 +75,8 @@ After that start the server
 ```
 Access the link
 
-[localhost:3000](localhost:3000)
+- [localhost:3000](https://localhost:3000)
+
 
 
 ## 🤔 How to contribute
